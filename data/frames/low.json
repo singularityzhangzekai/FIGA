@@ -1,0 +1,194 @@
+{
+  "frame_id": "demo-low",
+  "source": "synthetic perception replay; not an image inference",
+  "capacity_level": "high",
+  "capacity_note": "Synthetic fridge with many stocked foods but low eggs and milk.",
+  "items": [
+    {
+      "category": "eggs",
+      "quantity": 2,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "milk",
+      "quantity": 0,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "yogurt",
+      "quantity": 2,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "cheese",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "butter",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "apples",
+      "quantity": 4,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "onions",
+      "quantity": 3,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "tomatoes",
+      "quantity": 6,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "garlic",
+      "quantity": 2,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "avocados",
+      "quantity": 3,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "carrots",
+      "quantity": 6,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "broccoli",
+      "quantity": 2,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "spinach",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "lettuce",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "cucumbers",
+      "quantity": 2,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "bell_peppers",
+      "quantity": 3,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "mushrooms",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "lemons",
+      "quantity": 3,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "oranges",
+      "quantity": 5,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "strawberries",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "blueberries",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "chicken",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "fish",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "tofu",
+      "quantity": 2,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "bread",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "juice",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "bottled_water",
+      "quantity": 6,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "sparkling_water",
+      "quantity": 6,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "jam",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "mustard",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    },
+    {
+      "category": "ketchup",
+      "quantity": 1,
+      "confidence": 1.0,
+      "clear": true
+    }
+  ]
+}
